@@ -13,7 +13,7 @@ Em Python, a forma geral de definir uma função é:
 
 ```python
 def nome_da_funcao():
-    bloco de instruções da função
+    #bloco de instruções da função
 ```
 
 ```python
