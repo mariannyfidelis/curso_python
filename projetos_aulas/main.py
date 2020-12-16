@@ -1,6 +1,7 @@
-import conta
+from conta_poo import Conta
 
 print("*"*10,"Main","*"*10)
-a = conta.Conta()
+a = Conta()
+
 print(a)
-print("*"*10,"Main","*"*10)
+print("*"*10,"","*"*10)
